@@ -1,0 +1,37 @@
+<html>
+    <head>
+        <style>
+            .an{
+                position: absolute;
+                border: 1px solid black; width: 250px;color: green;
+                background-color: aqua;
+                padding: 20px;
+                
+            }
+            .pp{
+                position: absolute;
+                left: 150px;
+                top:1px;
+            }
+        </style>
+    </head>
+    <body>
+      <div class=an>
+        <p><img src="../10kcoders/anirudh.jpg"height="150"></p>
+        <div class="pp">
+      <p>name: anirudh</p>
+       <p>profession:music director</P>
+        <p> no of songs:20</p>
+        <p>no of blockbuster:10</p>
+        <p>no of bgms:30</p>
+        <p>Next, he sang and composed a single for David – a multi-starrer directed by Bejoy Nambiar; "Kanave Kanave" in Tamil and "Yu Hi Re" in Hindi.
+             The album also opened to very positive reviews, with a critic noting: Anirudh's song was "the pick of the album".[29][30] His next album was
+              Ethir Neechal, starring Sivakarthikeyan. Anirudh introduced rappers Yo Yo Honey Singh and Hiphop Tamizha in the album. Moreover, Sony Music 
+              India released the complete background score of Ethir Neechal via YouTube owing to its popularity.[31] His next soundtrack, Vanakkam Chennai
+               released in July 2013. For the song "Oh Penne", he roped in Vishal Dadlani for the first time in Tamil music. Another promotional song,
+               
+               "Chennai City Gangster", saw him collaborate again with Hiphop Tamizha and British Indian rapper Hard Kaur, with the trio also featuring
+                in a music video for the film.[32][33] In September 2013, he was signed on to compose the background score for Selvaraghavan's fantasy film Irandam Ulagam, after Harris Jayaraj had opted out. Anirudh noted his happiness at working with Selvaraghavan early in his career, despite being called up as a replacement and subsequently recorded for the film in Budapest.[34]</p>
+      </div>  
+    </body>
+</html>    
